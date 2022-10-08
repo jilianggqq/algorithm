@@ -1,4 +1,8 @@
-## DFS (backtracking) example
+# Table of Contents
+- [DFS example](#dfs-example)
+- [Sorting](#sorting)
+
+## DFS example
 ### help docs:
 https://leetcode.com/problems/combination-sum/discuss/16502/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partitioning
 
@@ -23,7 +27,7 @@ https://leetcode.com/problems/combination-sum/discuss/16502/a-general-approach-t
 6. [46. Permutations](https://leetcode.com/problems/permutations/)
     - no return helper: https://leetcode.com/submissions/detail/811196813/
 
-## Arrays
+## Sorting
 ### Examples
 1. [912. Sort an Array](https://leetcode.com/problems/sort-an-array/)
     - submit: https://leetcode.com/submissions/detail/817508531/
