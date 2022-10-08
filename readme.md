@@ -31,4 +31,4 @@ https://leetcode.com/problems/combination-sum/discuss/16502/a-general-approach-t
 ### Examples
 1. [912. Sort an Array](https://leetcode.com/problems/sort-an-array/)
     - submit: https://leetcode.com/submissions/detail/817508531/
-    - https://github.com/jilianggqq/python/blob/master/algorithm/merge_sort.py
+    - [merge_sort.py](./merge_sort.py)
